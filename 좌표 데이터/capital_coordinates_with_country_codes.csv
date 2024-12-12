@@ -1,0 +1,21 @@
+Country,Capital,Latitude,Longitude,Country Code
+South Korea,Seoul,37.5665,126.978,
+United States,Washington D.C.,38.8951,-77.0364,us
+United Kingdom,London,51.5074,-0.1278,gb
+Germany,Berlin,52.52,13.405,de
+France,Paris,48.8566,2.3522,fr
+Japan,Tokyo,35.6895,139.6917,jp
+Canada,Ottawa,45.4215,-75.6972,ca
+Australia,Canberra,-35.2809,149.13,au
+Italy,Rome,41.9028,12.4964,it
+Spain,Madrid,40.4168,-3.7038,es
+Netherlands,Amsterdam,52.3676,4.9041,nl
+Sweden,Stockholm,59.3293,18.0686,se
+Switzerland,Bern,46.9481,7.4474,ch
+Norway,Oslo,59.9139,10.7522,no
+Denmark,Copenhagen,55.6761,12.5683,dk
+Finland,Helsinki,60.1695,24.9354,fi
+Austria,Vienna,48.2082,16.3738,at
+Belgium,Brussels,50.8503,4.3517,be
+Ireland,Dublin,53.3498,-6.2603,ie
+New Zealand,Wellington,-41.2865,174.7762,nz
